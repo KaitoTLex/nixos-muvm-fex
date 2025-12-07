@@ -3,11 +3,11 @@
     "__flake-compat": {
       "flake": false,
       "locked": {
-        "lastModified": 1743448263,
-        "narHash": "sha256-PplvwAEkj+/MFkM6Q9V59L6f6i3Tbdc/9yLRf/iwECg=",
+        "lastModified": 1751685974,
+        "narHash": "sha256-NKw96t+BgHIYzHUjkTK95FqYRVKB8DHpVhefWSz/kTw=",
         "ref": "refs/heads/main",
-        "rev": "6588972962297c7abd300a72c55b2c7e21c1dc54",
-        "revCount": 85,
+        "rev": "549f2762aebeff29a2e5ece7a7dc0f955281a1d1",
+        "revCount": 92,
         "type": "git",
         "url": "https://git.lix.systems/lix-project/flake-compat.git"
       },
@@ -19,32 +19,31 @@
     "nixos-apple-silicon": {
       "flake": false,
       "locked": {
-        "lastModified": 1744351931,
-        "narHash": "sha256-VhbP+gW+joO+afsheF6OORrJ8mXTo9uwtF2leqVSZDU=",
-        "owner": "yuyuyureka",
+        "lastModified": 1764852467,
+        "narHash": "sha256-t20jUJE2S6aqh5YjUgjgP+u/uRmOV6CTGtBLKsA0/fQ=",
+        "owner": "nix-community",
         "repo": "nixos-apple-silicon",
-        "rev": "673ac9a53ad0161bb7dfff15fea739561facbba6",
+        "rev": "0ec4039ef904591afd235146a9a30945b6c8c0e3",
         "type": "github"
       },
       "original": {
-        "owner": "yuyuyureka",
-        "ref": "minimize-patches",
+        "owner": "nix-community",
         "repo": "nixos-apple-silicon",
         "type": "github"
       }
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1744868846,
-        "narHash": "sha256-5RJTdUHDmj12Qsv7XOhuospjAjATNiTMElplWnJE9Hs=",
+        "lastModified": 1764950072,
+        "narHash": "sha256-BmPWzogsG2GsXZtlT+MTcAWeDK5hkbGRZTeZNW42fwA=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "ebe4301cbd8f81c4f8d3244b3632338bbeb6d49c",
+        "rev": "f61125a668a320878494449750330ca58b78c557",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixpkgs-unstable",
+        "ref": "nixos-unstable",
         "repo": "nixpkgs",
         "type": "github"
       }
@@ -52,11 +51,11 @@
     "nixpkgs-muvm": {
       "flake": false,
       "locked": {
-        "lastModified": 1745397702,
-        "narHash": "sha256-iaA8Jv5ykdai2SkqlmLcjaKT9Jhv1x1g+PntvKhVcOQ=",
+        "lastModified": 1746131127,
+        "narHash": "sha256-Ean8ZaL0+2clYRNzOnBdNYTloXvFw4IfG8XXCUYV4Yw=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "16263fc6e9e5965ae55fc84b622bdc64986cb3f5",
+        "rev": "8a30e8fcec6df3bdea313b05067a39840756255f",
         "type": "github"
       },
       "original": {

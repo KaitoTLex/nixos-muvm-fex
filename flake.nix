@@ -1,10 +1,10 @@
 {
   inputs = {
     nixpkgs = {
-      url = "github:NixOS/nixpkgs?ref=nixpkgs-unstable";
+      url = "github:NixOS/nixpkgs/nixos-unstable";
     };
     nixos-apple-silicon = {
-      url = "github:yuyuyureka/nixos-apple-silicon/minimize-patches";
+      url = "github:nix-community/nixos-apple-silicon";
       flake = false;
     };
     nixpkgs-muvm = {

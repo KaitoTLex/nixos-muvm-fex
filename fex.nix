@@ -23,7 +23,7 @@ let
 in
 llvmPackages.stdenv.mkDerivation (finalAttrs: rec {
   pname = "fex";
-  version = "2503";
+  version = "2510";
 
   src = fetchFromGitHub {
     owner = "FEX-Emu";
